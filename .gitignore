@@ -222,3 +222,6 @@ __marimo__/
 data/*
 !data/.gitkeep
 .env
+
+.agents/
+.claude/
